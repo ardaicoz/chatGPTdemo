@@ -8,5 +8,7 @@ int main() {
         arr[i] = i * 10;
     }
 
+    printf("Hello World!");
+  
     return 0;
 }
